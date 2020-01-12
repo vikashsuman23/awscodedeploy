@@ -6,7 +6,6 @@ Please make sure that you add the following files to your project for this to wo
 <br />
 &nbsp;&nbsp;&nbsp;&nbsp; the entire scripts folder
 <br />
-<a href="https://www.youtube.com/watch?v=F6oLG-LyIhc&t=372s">Tutorial</a>
 <br />
 <br />
 1. Create IAM Roles
